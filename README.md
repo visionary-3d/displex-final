@@ -1,4 +1,4 @@
-# Shader Tutorial 1
+# Displex
 
 ### Video Tutorial : 
 [Realtime abstract animation using THREE.js](...)
@@ -9,6 +9,7 @@
 ### Final Result :
 [Demo](https://displex.netlify.app/)
 
-[Page in my portfolio](https://aryasalehi.com/work/displex)
+[Page In My Portfolio](https://aryaross.com/work/displex)
 
-![image](https://res.cloudinary.com/aryasalehi-com/image/upload/v1636475164/Portfolio/displex/experience.png)
+
+![image](https://res.cloudinary.com/aryaross/image/upload/v1636475164/Portfolio/displex/experience.png)
