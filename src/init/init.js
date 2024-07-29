@@ -339,9 +339,10 @@ export const init = () => {
   let height = window.innerHeight;
 
   camera = new THREE.PerspectiveCamera(75, width / height, 0.01, 100);
-  camera.position.z = 2.5;
-  // camera.position.x = 2.5;
-  camera.lookAt(0,0,0)
+  camera.position.x = -0.027374068431443976;
+  camera.position.y = -0.607959963261954;
+  camera.position.z = -1.6854611088523444;
+  // camera.lookAt(0, 0, 0);
   scene.add(camera);
   window.addEventListener("resize", () => {
     // Update

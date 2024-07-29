@@ -5,7 +5,7 @@ export const SmoothOrbitControls = () => {
     var zoomEnd = 0;
     this.zoomStart = 0;
 
-    this.zoomDampingFactor = 0.2; //0.3
+    this.zoomDampingFactor = 0; //0.3
     this.smoothZoomSpeed = 0.2;
     this.smoothZoom = false;
 
